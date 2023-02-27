@@ -1,4 +1,4 @@
-# SAREFized-OPSD-household-graph
+# SAREFized OPSD household graphs
  Knowledge graph containing measurements from the OPSD household dataset
 
 This repository contains multiple graphs containing measurements from the [OPSD household dataset](https://data.open-power-system-data.org/household_data/2020-04-15).
