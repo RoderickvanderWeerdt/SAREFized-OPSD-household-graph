@@ -8,7 +8,7 @@ The [SAREF ontology](https://saref.etsi.org/) was used to create the knowledge g
 1res_Adev: all measurements from all devices in one house.
 Ares_Adev: all measurements from all devices from all houses.
 
-graphs_opsd contain measurements from at most 37 devices over a ten month period.
+graphs_opsd contain measurements from at most 37 devices over a ten month period. graphs_opsd_Ares_Adev is excluded because the files are too large.
 
 Graphs_1000 contain all measurements from the 1000 warmest and 1000 coldest outside temperature timepoints (based on weatherdata not included in the graph) over the 10 month timeframe.
 
